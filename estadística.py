@@ -8,8 +8,7 @@ Original file is located at
 """
 
 import numpy as np
-#JenniferPaolaLopezCerda
-# Datos de ejemplo
+
 data = np.random.randint(0, 100, 10)  # 10 valores aleatorios entre 0 y 100
 print(f"Datos: {np.sort(data)}")  # Ordenado para observar los percentiles
 
